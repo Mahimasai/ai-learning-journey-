@@ -1,6 +1,6 @@
 # 🚀 My AI & Computer Science Learning Journey  
 
-Hi! I’m [Your Name], an aspiring AI & Robotics engineer.  
+Hi! I’m , an aspiring AI & Robotics engineer.  
 This repository is my open learning lab — where I document everything I study, implement, and build.  
 
 ## 📂 Contents
